@@ -42,15 +42,13 @@ Bu proje, Türkçe alfabeyi temel alan özel bir şifreleme algoritmasını kull
 ## 📸 Ekran Görüntüleri
 
 ### Uygulama Arayüzü
-![Arayüz](screenshots/arayuz.png)
+![Arayüz](screenshot/arayuz.png)
 
 ### Şifreleme Örneği
-![Şifreleme](screenshots/sifreleme.png)
+![Şifreleme](screenshot/sifreleme.png)
 
 ### Şifre Çözme Örneği
-![Çözme](screenshots/cozme.png)
-
-> Görselleri `screenshots` klasörüne ekleyip GitHub’a push ettiğinizde otomatik olarak görünür.
+![Çözme](screenshot/cozme.png)
 
 ---
 
