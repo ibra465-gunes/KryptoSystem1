@@ -2,7 +2,7 @@
 # 🔐 KryptoSystem1 – Türkçe Alfabe Tabanlı Şifreleme Algoritması (Java + JFrame)
 
 Bu proje, Türkçe alfabeyi temel alan özel bir şifreleme algoritmasını kullanıcı dostu bir arayüzle sunar. Java Swing (JFrame) kullanılarak geliştirilen bu uygulama, metinleri güvenli şekilde şifreleyip çözebilir.
-
+> 📅 Proje tarihi: Nisan 2024
 ---
 
 ## 🖼️ Arayüz Özellikleri
